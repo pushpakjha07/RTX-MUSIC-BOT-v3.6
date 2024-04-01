@@ -31,4 +31,4 @@ module.exports = {
 
         await client.distube.play(message.member.voice.channel, string, options);
     }
-}
+} 
