@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1179753146197745715", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://sestro:sestro@cluster0.zldd64l.mongodb.net/?retryWrites=true&w=majority",
   status: 'LITE X MUSIC',
   commandsDir: './commands',
   language: "en",
